@@ -1,0 +1,8 @@
+dist
+es
+lib
+fixtures
+.umi
+.umi-production
+.umi-test
+docs/.vitepress/cache/*/**

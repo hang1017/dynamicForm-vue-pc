@@ -14,7 +14,7 @@ hero:
       link: /guide/
     - theme: alt
       text: 组件
-      link: /components/foo
+      link: /doc/foo
 features:
   - icon: ✈️
     title: 功能/特点 1

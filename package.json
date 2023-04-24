@@ -1,5 +1,5 @@
 {
-  "name": "pccomp",
+  "name": "@alitajs/vdform",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,6 +17,13 @@
     "@vitejs/plugin-vue-jsx": "^3.0.1",
     "@vitepress-demo-preview/component": "^2.3.0",
     "@vitepress-demo-preview/plugin": "^1.1.9",
+    "@umijs/lint": "4.0.63",
+    "@umijs/utils": "4.0.63",
+    "prettier": "^2.8.7",
+    "eslint": "^8.37.0",
+    "stylelint": "^15.4.0",
+    "prettier-plugin-organize-imports": "^3.2.2",
+    "prettier-plugin-packagejson": "^2.4.3",
     "ant-design-vue": "^3.2.17"
   }
 }
