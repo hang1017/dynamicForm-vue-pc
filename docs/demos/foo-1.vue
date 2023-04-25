@@ -3,5 +3,5 @@
 </template>
 
 <script setup>
-import Name from "../src/Name";
+import { Name } from "@alitajs/vdform";
 </script>

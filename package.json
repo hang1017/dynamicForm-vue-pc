@@ -11,19 +11,22 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^18.16.0",
     "vitepress": "^1.0.0-alpha.73"
   },
   "dependencies": {
+    "@umijs/lint": "4.0.63",
+    "@umijs/utils": "4.0.63",
     "@vitejs/plugin-vue-jsx": "^3.0.1",
     "@vitepress-demo-preview/component": "^2.3.0",
     "@vitepress-demo-preview/plugin": "^1.1.9",
-    "@umijs/lint": "4.0.63",
-    "@umijs/utils": "4.0.63",
-    "prettier": "^2.8.7",
+    "ant-design-vue": "^3.2.17",
     "eslint": "^8.37.0",
-    "stylelint": "^15.4.0",
+    "path": "^0.12.7",
+    "prettier": "^2.8.7",
     "prettier-plugin-organize-imports": "^3.2.2",
     "prettier-plugin-packagejson": "^2.4.3",
-    "ant-design-vue": "^3.2.17"
+    "stylelint": "^15.4.0",
+    "vue": "^3.2.47"
   }
 }

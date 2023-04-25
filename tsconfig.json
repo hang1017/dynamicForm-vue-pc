@@ -17,17 +17,23 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "experimentalDecorators": true,
-    "lib": ["dom", "esnext"],
+    "lib": [
+      "dom",
+      "esnext"
+    ],
     "noImplicitAny": false,
     "skipLibCheck": true,
-    "types": ["vite/client"],
+    "types": [
+      "vite/client"
+    ],
     "removeComments": true,
     "paths": {
-      "@/*": ["/docs"],
+      "@alitajs/vdform": ["src/components/index.ts"]
     }
   },
   "include": [
-    "docs"
+    "docs/**/*",
+    "src/**/*"
   ],
-  "exclude": []
+  "exclude": ["node_modules", "**/*.js"]
 }

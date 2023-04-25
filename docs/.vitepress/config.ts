@@ -25,14 +25,14 @@ const sidebar: DefaultTheme.Sidebar = {
 }
 
 export default defineConfig({
-  title: 'hang-ui',
-  description: 'hang Vue3企业级中后台组件库',
+  title: '@alitajs/vdform',
+  description: '@alitajs/vdform',
   lang: 'cn-ZH',
   base: '/',
   lastUpdated: true,
   themeConfig: {
     logo: '/logo.png',
-    siteTitle: 'hang-admin-ui',
+    siteTitle: '@alitajs/vdform',
     outline: 3,
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
